@@ -1,15 +1,5 @@
-#### React Router Fix
+This project is developed while doing a react course in Udemy.
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+Link to the live project
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+https://cocktail-api-react.netlify.app/
